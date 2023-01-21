@@ -1,0 +1,24 @@
+{
+    "name": "pivot Token ",
+    "type": "BEP2",
+    "symbol": "PVT",
+    "decimals": 25,
+    "website": "https://www.pivot.one PR",
+    "description": "    \"description\": \"It is dedicated to providing users with real-time cryptocurrency market data and function as a one-stop-shop for trading services.\",",
+    "explorer": "https://explorer.binance.org/asset/PVT-554\"",
+    "status": "active",
+    "id": "\"PVT-554\"",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/@Abdolahnezhad1"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/@Abdolahnezhad"
+        }
+    ],
+    "tags": [
+        "staking"
+    ]
+}
